@@ -18,8 +18,8 @@ Downstream visualization tools allow us to perform sanity checks on single cell 
 
 # Usage: 
 The current version of this tool is to be deployed using your local machine.
-1. Launch the Mosaic conda environment [Mission Bio Mosaic Installation] (https://missionbio.github.io/mosaic/)
-2. Install Voila: [Voila Installation] (https://voila.readthedocs.io/en/stable/install.html)
+1. Launch a conda environment with Mission Bio's Mosaic Package installed (https://missionbio.github.io/mosaic/)
+2. Install Voila: (https://voila.readthedocs.io/en/stable/install.html)
 3. Open the Jupyter notebook script under the Mosaic conda environment
 4. Add pathfile of the .h5 dataset
 5. Run the Voila rendering of the Jupyter notebook script (Either press Voila toggle on Jupyter notebook or on Terminal: voila script.ipynb)
